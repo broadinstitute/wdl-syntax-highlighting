@@ -2,7 +2,7 @@
 
 # This repository is deprecated.
 
-Please see [broadinstitute/wdl-sublime-syntax-highlighter](broadinstitute/wdl-sublime-syntax-highlighter) for a more up to date version of this highlighter.
+Please see broadinstitute/wdl-sublime-syntax-highlighter for a more up to date version of this highlighter.
 
 ## Building .tmLanguage file
 
