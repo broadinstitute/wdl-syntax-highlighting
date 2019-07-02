@@ -1,8 +1,8 @@
 # WDL Syntax Highlighter for SublimeText and TextMate
 
-# This repository is deprecated.
+## This repository is deprecated
 
-Please see broadinstitute/wdl-sublime-syntax-highlighter for a more up to date version of this highlighter.
+Please see [wdl-sublime-syntax-highlighter](https://github.com/broadinstitute/wdl-sublime-syntax-highlighter) for a more up to date version of this highlighter.
 
 ## Building .tmLanguage file
 
